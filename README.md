@@ -1,8 +1,10 @@
-# LN_FilmicFilter_Mod
+# LN_FilmicFilter_Mod.js
+
+![オクトラプラグイン](https://user-images.githubusercontent.com/101030953/172010230-b3d7ff98-52a9-4dad-b2ee-cab985ee3c29.gif)
 
 | Plugin |
 |:-----------|
-| [LN_FilmicFilter_Mod.js](https:// "LN_FilmicFilter_Mod.js")       |
+| [LN_FilmicFilter_Mod.js](https://raw.githubusercontent.com/pepaperon-p/LN_FilmicFilter_Mod/main/LN_FilmicFilter_Mod.js "LN_FilmicFilter_Mod.js")|
 
 ```mermaid
 graph TD;
