@@ -12,7 +12,7 @@ graph TD;
 ```
 
 
-LRIKI様(https://twitter.com/lriki8)作のオクトラプラグインを改造して<br/>
+LRIKI様( https://twitter.com/lriki8 )作のオクトラプラグインを改造して<br/>
 戦闘時のぼかしON/OFF、ぼかし強度XY軸の機能を追加しました。<br/>
 ついでにぼかし品質も上げていますので綺麗なぼけ味になっています。<br/>
 
